@@ -2265,11 +2265,11 @@ img[height] {
 .c-work__timeframe,
 .c-work__location {
   opacity: .6;
-  font-size: 0.7rem;
+  font-size: 0.9rem;
 }
 
 .c-work__title {
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
 
 .c-social-button {
@@ -2719,4 +2719,7 @@ a .fa,
 }
 .fa-link{
   width: 14px;
+}
+.lowercase{
+  text-transform: lowercase;
 }
