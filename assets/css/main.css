@@ -2718,3 +2718,10 @@ a .fa,
 .lowercase{
   text-transform: lowercase;
 }
+.panel{
+  display: none;
+}
+.accordion{
+  cursor: pointer;
+  color: #f8bb10;
+}

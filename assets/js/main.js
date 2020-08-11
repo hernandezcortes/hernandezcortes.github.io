@@ -30,7 +30,6 @@ $(document).ready(function() {
 
 });
 
-
 function setup_scrollreveal()
 {
     if(typeof ScrollReveal !== 'undefined' && $.isFunction(ScrollReveal)) {
